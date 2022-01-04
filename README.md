@@ -14,7 +14,7 @@ Kaggle is a data science and machine learning online community. Users can use Ka
 The data set for the model will be scraped from Kaggle website: https://www.kaggle.com/. The below table outlines the features that will be used to develop the prediction model. :
 
 <ul>
-The data set for the model will be scraped from Kaggle website: https://www.kaggle.com/. The below table outlines the features that will be used to develop the prediction model. 
+
 <li> Dataset Name: The name of the dataset </li>
 <li>Created By: the person how  published the dataset</li>
 <li>Rank: There are three levels of award, Bronze, Silver and Gold </li>
